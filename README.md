@@ -2,4 +2,4 @@ Refactored Maskformer: Refactor Localization and Classification Tasks for Improv
 
 Xingliang Zhu， Xiaoyu Dong， Weiwei Yu， Huawei Liang，and Bin Kong
 
-The code will be published after the article is accepted.
+Due to a business trip, the project code will be organized and released by December 13, 2024.
